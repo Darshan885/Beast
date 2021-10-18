@@ -1,3 +1,4 @@
 Components Required
 cpu
 monitor
+mouse

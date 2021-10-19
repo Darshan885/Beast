@@ -2,3 +2,4 @@ Components Required
 cpu
 monitor
 mouse
+keyboard

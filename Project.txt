@@ -4,3 +4,4 @@ monitor
 mouse
 keyboard
 speaker
+gpu
